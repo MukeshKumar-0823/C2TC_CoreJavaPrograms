@@ -1,6 +1,6 @@
 package day1;
 
-public class Sample extends Object{
+public class Sample{
 
 	public static void main(String[] args) {
 		System.out.println("hello");
