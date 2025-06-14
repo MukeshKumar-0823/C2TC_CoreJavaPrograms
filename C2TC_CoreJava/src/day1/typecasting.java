@@ -1,0 +1,39 @@
+package day1;
+
+public class typecasting {
+		public static void main(String[] args) {
+			
+			byte b = 10;
+			int i = b;
+			System.out.println(i);
+			
+			float f = 22.14f;
+			double d = f;
+			System.out.println(d);
+			
+			char ch = 'A';
+			int i3 = ch;
+			System.out.println(i3);
+			
+			char ch1 = '\u00A7';
+			int m = ch1;
+			System.out.println(m);
+
+			double d1 = 10.52f;
+			long l = (long) d1;
+			System.out.println(l);
+
+			long l1 = 923372036854775806l;
+			int i2 = (int) l1;
+			System.out.println(i2);
+
+			float f2 = 34.56f;
+			int i1 = (int) f2;
+			System.out.println(i1);
+
+			byte b1 = 90;
+			char ch2 = (char) b1;
+			System.out.println(ch2);
+		}
+	}
+
