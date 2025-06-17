@@ -7,7 +7,6 @@ public class chardemo {
 		System.out.println(ch);
 		
 		
-		
 		char[]  arr= {'a','b','c'};
 		for(char c:arr) {
 			System.out.print(c+" ");
