@@ -6,5 +6,4 @@ public class MAIN {
 		test1 obj1=new test1("mukesh");
 		test1 obj2=new test1("mukesh",8);
 	}
-
 }
