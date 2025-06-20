@@ -27,7 +27,7 @@ public class person {
 		this.name = name;
 	}
 	public String getCity() {
-		return city;
+		return city; 
 	}
 	public void setCity(String city) {
 		this.city = city;
