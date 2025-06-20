@@ -1,5 +1,5 @@
 package day8;
 
-public interface demo {
-
-}
+interface InterfaceOne{  
+	  void print();  
+	}  
